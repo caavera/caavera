@@ -1,0 +1,8 @@
+fetch: 50  
+commit: true  
+pull_request: true
+issue: true
+release: true
+fork: false
+watch: false
+comment: false
