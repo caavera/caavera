@@ -46,9 +46,9 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [caavera/caavera](https://github.com/caavera/caavera)<br>
-2. ⬆️ Pushed 1 commit(s) to [caavera/caavera](https://github.com/caavera/caavera)<br>
-3. ⬆️ Pushed 1 commit(s) to [caavera/caavera](https://github.com/caavera/caavera)<br>
+1. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+2. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+3. 📔 Created new repository [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
 4. ⬆️ Pushed 1 commit(s) to [caavera/caavera](https://github.com/caavera/caavera)<br>
 5. ⬆️ Pushed 1 commit(s) to [caavera/caavera](https://github.com/caavera/caavera)<br>
 <!--RECENT_ACTIVITY:end-->
