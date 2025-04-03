@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
-2. ⬆️ Pushed 2 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+1. ⬆️ Pushed 2 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+2. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
 3. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
-4. ⬆️ Pushed 2 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
-5. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+4. ⬆️ Pushed 1 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
+5. ⬆️ Pushed 2 commit(s) to [caavera/nextjs-store](https://github.com/caavera/nextjs-store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
