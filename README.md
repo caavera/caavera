@@ -46,6 +46,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
